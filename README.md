@@ -2,13 +2,13 @@
 
 👨‍🎨 An open-source portfolio template built with React and Tailwind.
 
-![Open React template preview](./demo.png)
 
-Made with 💙 by [Brayden W](https://braydentw.github.io).
+
+Made with 💙 by [Akash Singh](https://github.com/real-tea) & inspired by [BraydenTW].
 
 ## Live demo
 
-Check out the live demo here 👉️ https://react-tailwind-portfolio.braydentw.vercel.app/
+Check out the live demo here 👉️ 
 
 ## Table of contents
 
@@ -119,6 +119,6 @@ In order to track visitors, you need to set an [environment variable](https://cr
 
 ### Like my work?
 
-<a href="https://www.buymeacoffee.com/braydenw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" ></a>
+<a href="https://www.buymeacoffee.com/Akash77Singh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" ></a>
 
-Made by [@BraydenTW](https://github.com/braydentw)
+Made by [@Akash Singh](https://github.com/real-tea)

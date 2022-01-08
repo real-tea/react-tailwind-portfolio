@@ -31,13 +31,13 @@ function Card({ name, title, social: { github, dribbble, twitter, email } }) {
               <FaGithub />
               <span class="sr-only">Github</span>
             </a>
-            <a
+            {/* <a
               className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-pink-600 hover:bg-pink-600 rounded-full hover:text-white transition-colors duration-300"
               href={dribbble}
             >
               <FaDribbble />
               <span class="sr-only">Dribble</span>
-            </a>
+            </a> */}
             <a
               className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300"
               href={twitter}
